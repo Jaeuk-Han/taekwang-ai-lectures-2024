@@ -9,28 +9,59 @@
 - **4차 산업 기술의 융합적 사고** 체득  
 - 이론 → 실습 → 응용으로 이어지는 **체험형 AI 교육**
 
-| 회차 | 주제 | 내용 요약 |
-|------|------|------------|
-| 1 | **머신러닝 기초** | 선형회귀, MSE, 경사하강법 실습 |
-| 2 | **딥러닝 개념** | 인공신경망, 활성화함수, 역전파 |
-| 3-4 | **아두이노 센서 실습** | 초음파/적외선 센서, 서보모터, 블록코딩 |
-| 5 | **정렬 알고리즘 실습** | 선택/버블/삽입 정렬과 순서도 설계 |
-| 6 | **자료구조 & 암호화** | 스택/큐 구조, 카이사르·RSA 암호 원리 |
-| 7 | **RC카 제어 프로젝트** | 모터 드라이버·초음파 센서 기반 RC카 제어 |
-| 8 | **XGO 로봇 실습** | 블록코딩으로 로봇팔, 장애물 회피 제어 |
 
 ---
 
-## 폴더 구조
+## 📚 커리큘럼 및 자료 구성
 
+| 회차 | 날짜 | 주제 | 주요 내용 | 자료 |
+|------|------|------|------------|------|
+| 1 | 5.29 | **머신러닝 기초** | 데이터·모델·MSE·경사하강법 | [`5.29_동아리_강의자료(LinearRegression).pptx`](01_MachineLearning/slides/5.29_동아리_강의자료(LinearRegression).pptx) |
+| 2 | 6.12 | **딥러닝 개념** | 인공신경망·가중치·활성화함수·역전파 | [`6.12_동아리_강의자료(DeepLearning).pptx`](02_DeepLearning/slides/6.12_동아리_강의자료(DeepLearning).pptx) |
+| 3 | 6.12 | **아두이노 입문 ①** | 서보모터·초음파·적외선 센서 원리 | [`6.12_아두이노_강의자료(Arduino).pptx`](03_Arduino_Sensors/slides/6.12_아두이노_강의자료(Arduino).pptx) |
+| 4 | 7.10 | **아두이노 입문 ②** | 초음파 거리 측정·적외선 감지 실습 | [`7.10_아두이노_강의자료(Arduino).pptx`](03_Arduino_Sensors/slides/7.10_아두이노_강의자료(Arduino).pptx) |
+| 5 | 8.28 | **정렬 알고리즘 실습** | 선택·버블·삽입 정렬, 순서도 설계 | [`8.28_동아리_강의자료(SortingAlgorithms).pptx`](04_SortingAlgorithms/slides/8.28_동아리_강의자료(SortingAlgorithms).pptx) |
+| 6 | 9.10 | **자료구조 & 암호화** | 스택/큐 구조, 카이사르·RSA 암호 원리 | [`9.10_동아리_강의자료(DataStructures_Encryption).pptx`](05_DataStructures_Encryption/slides/9.10_동아리_강의자료(DataStructures_Encryption).pptx) |
+| 7 | 10.23 | **아두이노 RC카 제어** | 모터 드라이버, 센서 기반 장애물 회피 | [`10.23_아두이노_강의자료(Arduino_RCcar).pptx`](06_Arduino_RCcar/slides/10.23_아두이노_강의자료(Arduino_RCcar).pptx) |
+| 8 | 10.30 | **XGO 로봇 실습** | 블록코딩으로 로봇팔 제어 및 이동 경로 설정 | [`10.30_XGO_강의자료(XGO_Robot).pptx`](07_XGO_Robot/slides/10.30_XGO_강의자료(XGO_Robot).pptx) |
+
+---
+
+## 🗂️ Directory Structure
+
+```text
 taekwang-ai-lectures-2024/
+├── README.md
+│
 ├── 01_MachineLearning/
+│   └── slides/
+│       └── 5.29_동아리_강의자료(LinearRegression).pptx
+│
 ├── 02_DeepLearning/
+│   └── slides/
+│       └── 6.12_동아리_강의자료(DeepLearning).pptx
+│
 ├── 03_Arduino_Sensors/
+│   └── slides/
+│       ├── 6.12_아두이노_강의자료(Arduino).pptx
+│       └── 7.10_아두이노_강의자료(Arduino).pptx
+│
 ├── 04_SortingAlgorithms/
+│   └── slides/
+│       └── 8.28_동아리_강의자료(SortingAlgorithms).pptx
+│
 ├── 05_DataStructures_Encryption/
+│   └── slides/
+│       └── 9.10_동아리_강의자료(DataStructures_Encryption).pptx
+│
 ├── 06_Arduino_RCcar/
+│   └── slides/
+│       └── 10.23_아두이노_강의자료(Arduino_RCcar).pptx
+│
 └── 07_XGO_Robot/
+    └── slides/
+        └── 10.30_XGO_강의자료(XGO_Robot).pptx
+```
 
 ---
 
