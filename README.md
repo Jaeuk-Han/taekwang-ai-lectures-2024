@@ -44,10 +44,15 @@ taekwang-ai-lectures-2024/
 │       └── 6.12_동아리_강의자료(DeepLearning).pptx
 │
 ├── 03_Arduino_Basic/
-│   └── slides/
-│       ├── 6.12_아두이노_강의자료(Arduino).pptx
-│       └── 7.10_아두이노_강의자료(Arduino).pptx
-│
+│   ├── slides/
+│   │    ├── 6.12_아두이노_강의자료(Arduino).pptx
+│   │    └── 7.10_아두이노_강의자료(Arduino).pptx
+│   └── code/
+│       ├── 실습1_Servo_motor.ino
+│       ├── 실습2_Ultrasonic_sensor.ino
+│       ├── 실습3_Line_sensor.ino
+│       └── 실습4_IR_remote.ino
+│ 
 ├── 04_SortingAlgorithms/
 │   └── slides/
 │       └── 8.28_동아리_강의자료(SortingAlgorithms).pptx
