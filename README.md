@@ -34,8 +34,10 @@ taekwang-ai-lectures-2024/
 ├── README.md
 │
 ├── 01_LinearRegression/
-│   └── slides/
-│       └── 5.29_동아리_강의자료(LinearRegression).pptx
+│   ├── slides/
+│   │   └── 5.29_동아리_강의자료(LinearRegression).pptx
+│   └── code/
+│       └── 선형회귀_실습자료.ipynb
 │
 ├── 02_DeepLearning/
 │   └── slides/
