@@ -63,7 +63,11 @@ taekwang-ai-lectures-2024/
 │
 ├── 06_Arduino_RCcar/
 │   └── slides/
-│       └── 10.23_아두이노_강의자료(Arduino_RCcar).pptx
+│   │   └── 10.23_아두이노_강의자료(Arduino_RCcar).pptx
+│   └── code/
+│       ├── 실습1_RC_Car_keyboard.ino
+│       ├── 실습2_RC_CAR_UltraSonic.ino
+│       └── 실습3_RC_Car_trace.ino
 │
 └── 07_XGO_Robot/
     └── slides/
