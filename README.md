@@ -1,5 +1,7 @@
 # AI & Robotics Lecture - Taekwang High School (2024)
 
+![데모 전체 스크린샷](main.jpg)
+
 > 2024년 **태광고등학교 4차산업과수학 동아리**에서 진행된  
 > **인공지능과 로봇 실습 강의 시리즈** 자료 모음입니다.
 
